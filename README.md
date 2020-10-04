@@ -1,4 +1,4 @@
-# Mastering-The-Art-Of-Web-Development
+# Mastering The Art Of Web Development
 ![](head_cover.png)
 ### Best hands-on learning web development resource: [freecodecamp.org](https://www.freecodecamp.org/learn)
 :bangbang: Courses where **no organization name** is specified, means that the videos are from **youtube** <br />
