@@ -1,6 +1,6 @@
 # Mastering The Art Of Web Development
 ![](head_cover.png)
-### Best hands-on learning web development resource: [freecodecamp.org](https://www.freecodecamp.org/learn),[scrimba.com](https://scrimba.com/allcourses)
+### Best hands-on learning web development resource: [freecodecamp.org](https://www.freecodecamp.org/learn), [scrimba.com](https://scrimba.com/allcourses)
 :bangbang: Courses where **no organization name** is specified, means that the videos are from **youtube** <br />
 :bangbang: Courses on **Scrimba** are recommended <br />
 :bangbang: :moneybag: indicates course is **paid** 
