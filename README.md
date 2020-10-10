@@ -47,6 +47,7 @@ GitHub is a website and cloud-based service that helps developers store and mana
 * [Install Git on windows](https://www.atlassian.com/git/tutorials/install-git#windows)
 * [Install Git on linux](https://www.atlassian.com/git/tutorials/install-git#linux)
 * [Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+* [Markdown cheat sheet](https://github.com/CodeX-SFIT/Markdown-Cheatsheet)
 * [Hands on Git](https://try.github.io/)
 * [Github Alternatives](https://www.tecmint.com/github-alternatives-to-host-open-source-projects/)  
 * **[Back to table of contents](#Table-of-contents)**
